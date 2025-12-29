@@ -17,7 +17,7 @@
   ----
   |  Language Overview | In detail |
   |--------------------|-----------|
-  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=nightfairy5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | ![Contributions](https://streak-stats.demolab.com?user=nightfairy5831&theme=tokyonight)  |
+  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=nightfairy5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | [![GitHub Streak](https://streak-stats.demolab.com?user=nightfairy5831)](https://git.io/streak-stats) |
   ---
 
   </div>
@@ -156,4 +156,3 @@
     </table>  
   </div>
   <hr>
-  <img src="https://github-profile-trophy.vercel.app/?username=nightfairy5831" alt="nightfairy5831" />
