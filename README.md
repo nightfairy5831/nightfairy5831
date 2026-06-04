@@ -27,4 +27,4 @@
 </a>
 
 > [!TIP]  
-> I do provide consulting and outsourcing services for enterprises and startups in AI infra & AI multi-modal, AI interactive, and Multi-Agent fields, if you are interested, please contact me at [nightfairy5831@gmail.com]
+> I help startups and enterprises build and scale AI/ML, Fintech SaaS, and Multi-Agent solutions through consulting and development services. If you'd like to discuss a project, feel free to reach out [nightfairy5831@gmail.com]
