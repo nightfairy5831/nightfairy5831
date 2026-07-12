@@ -11,20 +11,11 @@
   ![Followers](https://img.shields.io/github/followers/nightfairy5831?label=Followers&style=social)
 
   </div>
-
-<a href="#stats" align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=nightfairy5831&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=github_dark&hide_border=true&bg_color=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=nightfairy5831&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=default&hide_border=true&bg_color=00000000"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=nightfairy5831&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
-  </picture>
-</a>
+  
+ <p>
+  <img src="https://github-stats-extended.vercel.app/api?username=nightfairy5831&show_icons=true&include_all_commits=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nightfairy5831&layout=donut&langs_count=4&theme=transparent" height="180" hspace="20" />
+ </p>
 
 > [!TIP]  
 > I help startups and enterprises build and scale AI/ML, Fintech SaaS, and Multi-Agent solutions through consulting and development services. If you'd like to discuss a project, feel free to reach out [nightfairy5831@gmail.com]
